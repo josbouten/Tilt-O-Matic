@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33mm"
+   height="41mm"
+   viewBox="0 0 33 41"
+   version="1.1"
+   id="svg915"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="kort_1_maal_01.svg">
+  <defs
+     id="defs909" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="58.683569"
+     inkscape:cy="104.39349"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1468"
+     inkscape:window-height="954"
+     inkscape:window-x="204"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata912">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1539"
+       transform="translate(-124.80786,-130.43513)">
+      <rect
+         ry="0.2375184"
+         y="130.5007"
+         x="124.85786"
+         height="39.86763"
+         width="14.867629"
+         id="rect3255-3-5"
+         style="fill:#ffffff;fill-opacity:0.409639;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1" />
+      <ellipse
+         ry="2.5261173"
+         rx="2.5261176"
+         cy="140.50786"
+         cx="132.29167"
+         id="path3257-5-6-3"
+         style="fill:#ffffff;fill-opacity:0.409639;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:0.409639;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1"
+         id="ellipse3345-7-5"
+         cx="132.29167"
+         cy="160.40179"
+         rx="2.5261176"
+         ry="2.5261173" />
+    </g>
+  </g>
+</svg>
