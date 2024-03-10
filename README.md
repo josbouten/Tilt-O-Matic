@@ -19,10 +19,10 @@ I used an aluminium panel left over from some other project to add some rigidity
 
 ![picture](fotos/20240227_174701_scaled.jpg "added some more rigidity")
 
-In order to limit the tilt of the rack I added another bracket.
-
-![Picture in a box land](fotos/20240228_210111_scaled.jpg "added bracket")
-
 The rack cases are interconnected using wooden brackets.
 The brackets were cut using a K40 laser from plywood, but they could be 3D-printed as well. 
 I glued 2 of those brackets together for extra sturdyness.
+
+![Picture in a box land](fotos/20240228_210111_scaled.jpg "added bracket")
+
+In order to limit the tilt of the rack I added another bracket.
